@@ -1,3 +1,6 @@
+ The iPlant Collaborative
+==========================
+
 The iPlant Discovery Environment is in active development. This is a
 snapshot of the HTML help files that are used in an embedded manual.
 
@@ -5,3 +8,9 @@ This snapshot was originally taken 7 March 2011, but has been updated to be curr
 
 This is not an official repository for the project, but is being used
 for testing Git.
+
+### Markdown 
+
+GitHub supports a variant of Markdown for README and txt files. 
+
+
